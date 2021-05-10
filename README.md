@@ -10,6 +10,7 @@ I've been in love with technology since I was a kid
 
  - 🖥️ Web developer
  - 📍From Minas Gerais - Brazil
+ - 💼Working with Node.js
  
  
 
