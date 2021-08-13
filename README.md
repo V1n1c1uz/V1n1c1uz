@@ -1,6 +1,10 @@
 # Vinícius
 **Designer | Programador**
-  
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=V1n1c1uz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+ [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1n1c1uz&layout=compact&langs_count=7&theme=dracula)
+
 Sou apaixonado por tecnologia desde criança.
 
 🎯 Meu objetivo é ser um bom programador! 🚀
