@@ -11,9 +11,9 @@ Sou apaixonado por tecnologia desde criança.
 
 ### 📖 "Tudo posso naquele que me fortalece" 🌍.
 
- - 🖥️Full Stack Developer.
- - 📍Minas Gerais - Brazil.
- - 🎓Cursando Sistemas de informação.
+ - 🖥️ Full Stack Developer.
+ - 📍 Minas Gerais - Brazil.
+ - 🎓 Cursando Sistemas de informação.
  
 
 ##
