@@ -3,8 +3,6 @@
 
 Sou apaixonado por tecnologia desde criança.
 
-🎯 Meu objetivo é ser um bom programador! 🚀
-
 
 
 ### 📖 "Tudo posso naquele que me fortalece" 🌍.
