@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia desde criança.
 
 
 
-### 📖 "Tudo posso naquele que me fortalece" 🌍.
+### 📖 "Tudo posso naquele que me fortalece" Filipenses 4:13 🌍.
 
  - 🖥️ Full Stack Developer.
  - 📍 Minas Gerais - Brazil.
