@@ -1,5 +1,5 @@
 # Vinícius
-**Programador | Designer**
+**Programador **
 
 Sou apaixonado por tecnologia desde criança.
 
