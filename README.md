@@ -1,6 +1,8 @@
 # Vinícius
 **Programador**
 
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/pedro-vinicius-5ab512224)
+
 Sou apaixonado por tecnologia desde criança.
 
 
