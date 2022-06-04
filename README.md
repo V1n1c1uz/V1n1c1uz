@@ -1,10 +1,8 @@
-# Vinícius
-**Programador**
+#### Hello, my name is Pedro, I've been passionate about technology since I was a child.
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/pedro-vinicius-5ab512224)
 
-Sou apaixonado por tecnologia desde criança.
-
+---
 
 
 ### 📖 "Tudo posso naquele que me fortalece" Filipenses 4:13 🌍.
@@ -13,6 +11,7 @@ Sou apaixonado por tecnologia desde criança.
  - 📍 Minas Gerais - Brazil.
  - 🎓 Cursando Sistemas de informação.
  
+---
 
 ##
 
